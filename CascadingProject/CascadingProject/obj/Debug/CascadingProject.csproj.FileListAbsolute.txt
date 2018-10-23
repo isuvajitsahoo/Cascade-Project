@@ -1,0 +1,15 @@
+C:\Users\suvasaho\source\repos\CascadingProject\CascadingProject\bin\Debug\CascadingProject.exe.config
+C:\Users\suvasaho\source\repos\CascadingProject\CascadingProject\bin\Debug\CascadingProject.exe
+C:\Users\suvasaho\source\repos\CascadingProject\CascadingProject\bin\Debug\CascadingProject.pdb
+C:\Users\suvasaho\source\repos\CascadingProject\CascadingProject\obj\Debug\CascadingProject.csprojAssemblyReference.cache
+C:\Users\suvasaho\source\repos\CascadingProject\CascadingProject\obj\Debug\MainWindow.g.cs
+C:\Users\suvasaho\source\repos\CascadingProject\CascadingProject\obj\Debug\App.g.cs
+C:\Users\suvasaho\source\repos\CascadingProject\CascadingProject\obj\Debug\CascadingProject_MarkupCompile.cache
+C:\Users\suvasaho\source\repos\CascadingProject\CascadingProject\obj\Debug\CascadingProject_MarkupCompile.lref
+C:\Users\suvasaho\source\repos\CascadingProject\CascadingProject\obj\Debug\MainWindow.baml
+C:\Users\suvasaho\source\repos\CascadingProject\CascadingProject\obj\Debug\CascadingProject.g.resources
+C:\Users\suvasaho\source\repos\CascadingProject\CascadingProject\obj\Debug\CascadingProject.Properties.Resources.resources
+C:\Users\suvasaho\source\repos\CascadingProject\CascadingProject\obj\Debug\CascadingProject.csproj.GenerateResource.cache
+C:\Users\suvasaho\source\repos\CascadingProject\CascadingProject\obj\Debug\CascadingProject.csproj.CoreCompileInputs.cache
+C:\Users\suvasaho\source\repos\CascadingProject\CascadingProject\obj\Debug\CascadingProject.exe
+C:\Users\suvasaho\source\repos\CascadingProject\CascadingProject\obj\Debug\CascadingProject.pdb

@@ -1,0 +1,15 @@
+﻿<Window x:Class="CascadingProject.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CascadingProject"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="37,190,0,0" VerticalAlignment="Top" Width="101" Height="29" Click="Button_Click"/>
+        <DataGrid Name="Cus" HorizontalAlignment="Left" Height="192" Margin="174,10,0,0" VerticalAlignment="Top" Width="608"/>
+        <DataGrid Name="Ord" HorizontalAlignment="Left" Height="193" Margin="174,217,0,0" VerticalAlignment="Top" Width="608"/>
+
+    </Grid>
+</Window>
